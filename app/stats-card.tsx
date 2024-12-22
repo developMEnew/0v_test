@@ -1,6 +1,5 @@
 'use client'
 
-import { Home, Settings } from 'lucide-react'
 import { Button } from "@/components/ui/button"
 
 export default function StatsCard() {
